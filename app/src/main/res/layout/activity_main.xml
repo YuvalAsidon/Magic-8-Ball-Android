@@ -24,7 +24,8 @@
         android:background="@color/colorPrimaryDark"
         android:text="@string/AppText"
         android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/image_eightBall"
