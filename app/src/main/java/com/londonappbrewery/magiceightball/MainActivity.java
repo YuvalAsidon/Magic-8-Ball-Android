@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Random randomNumberGenerator = new Random();
 
-                int number= randomNumberGenerator.nextInt(6);
+                int number= randomNumberGenerator.nextInt(5);
 
                 Log.d("ball","The random is: "+number);
 
